@@ -49,10 +49,13 @@ A mobile banking application that has a functions of sending money, savings, vie
 # DEMO VIDEO
 Click the link to watch: https://youtu.be/z2qOJ9DpFMc
 
-# RESEARCHER/ DEVELOPER:
+# RESEARCHER / DEVELOPER:
 ● Castillo, Mark Alvin
+
 ● Espiritu, Princess
+
 ● Grefal, Alvenia
+
 ● Mendoza Marie Jamine
 
 # ADVISER
