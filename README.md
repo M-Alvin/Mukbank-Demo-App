@@ -7,8 +7,11 @@ A mobile banking application that has a functions of sending money, savings, vie
 
 # REQUIREMENTS
 ● Android Studio 4.0 (installed on a Mac, Linux, or Windows machine)
+
 ● Android device in developer mode with USB debugging enabled
+
 ● USB cable (to connect Android device to your computer)
+
 # FEATURES
 ## 1. SIGN IN
 ![image](https://user-images.githubusercontent.com/109755374/180354043-e3515baf-fc6c-42ea-97c8-59e41069fb38.png)
