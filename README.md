@@ -1,8 +1,15 @@
 # Mukbank-Demo-App[CS3C_Grp3_CASTILLO.zip](https://github.com/M-Alvin/Mukbank-Demo-App/files/9163753/CS3C_Grp3_CASTILLO.zip)
-  
-## OVERVIEW  
+# MUKBANK MOBILE APP
+Mukbank Payment Application is  more convenient and have the availability for smartphone/ mobile phone user. It was highlighted that user prefer to check their balances and paying bills tru mobile over visiting a physical branch or store. And We belive that as more Filipinos move towards becoming more digital, our country will accelerate its space in becoming a cashless society says Stuart Tomlinson.
 ![293109715_1383565158807541_7173358366495177064_n](https://user-images.githubusercontent.com/109755374/180353668-0c8bc14a-af06-44c3-9c39-a80a830bccf0.jpg)
+# OVERVIEW  
+A mobile banking application that has a functions of sending money, savings, viewing of transactions, investments, archieve and system logs.
 
+# REQUIREMENTS
+● Android Studio 4.0 (installed on a Mac, Linux, or Windows machine)
+● Android device in developer mode with USB debugging enabled
+● USB cable (to connect Android device to your computer)
+# FEATURES
 ## 1. SIGN IN
 ![image](https://user-images.githubusercontent.com/109755374/180354043-e3515baf-fc6c-42ea-97c8-59e41069fb38.png)
 
@@ -39,4 +46,30 @@
 ## 12. PROFILE
 ![image](https://user-images.githubusercontent.com/109755374/180354314-751de387-6c84-4073-bebb-c0dfdffef195.png)
 
+# DEMO VIDEO
+Click the link to watch: https://youtu.be/z2qOJ9DpFMc
+
+# RESEARCHER/ DEVELOPER:
+● Castillo, Mark Alvin
+● Espiritu, Princess
+● Grefal, Alvenia
+● Mendoza Marie Jamine
+
+# ADVISER
+● Jefferson A. Costales
+
+# SCHOOL NAME
+Eulogio "Amang" Rodriguez Insitute of Science and Technology
+
+Nagtahan, Sampaloc, Manila, Philippines
+
+College of Arts and Sciences
+
+ITE Department
+
+# COURSE
+● Bachelor of Science in Computer Science
+
+# DATE
+● July 22, 2022
 
